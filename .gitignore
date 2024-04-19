@@ -4,4 +4,5 @@
 /lake-packages
 /build
 .vscode
-.vscode
+.lake
+
